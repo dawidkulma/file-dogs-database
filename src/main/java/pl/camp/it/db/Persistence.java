@@ -6,7 +6,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Persistance {
+public class Persistence {
     private static final String dbFileName = "dogs_file_db.txt";
 
     public static void saveData() {

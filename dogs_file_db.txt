@@ -1,0 +1,10 @@
+Dog;Marty;1
+Dog;Melisa;11
+Dog;Reinaldo;11
+Dog;Joni;19
+Dog;Pedro;19
+Dog;Burl;11
+Dog;Courtney;18
+Dog;Damion;10
+Dog;Mac;4
+Dog;Alexis;13

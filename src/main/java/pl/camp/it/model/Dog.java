@@ -2,18 +2,14 @@ package pl.camp.it.model;
 
 public class Dog {
     private String name;
-    private int age;
+    private String age; // Java Faker generates dog's age as one of {"puppy", "young", "adult", "senior"}
 
-    public Dog(String name, int age) {
+    public Dog(String name, String age) {
         this.name = name;
         this.age = age;
     }
 
-    public String getName() {
-        return name;
-    }
+    public String getName() { return name; }
 
-    public int getAge() {
-        return age;
-    }
+    public String getAge() { return age; }
 }
